@@ -1,3 +1,5 @@
 This is a acritical messege i am going to amend with the previous commit with this new file.
 
 commit #2 during squash activity
+
+commit #3 during squash activity
