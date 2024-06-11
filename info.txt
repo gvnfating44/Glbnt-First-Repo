@@ -6,6 +6,15 @@ commit #3 during squash activity
 
 commit #4 during squash activity
 
+<<<<<<< HEAD
+commit #9 during squash activity
+
+commit #10 during squash activity
+
+commit #11 during squash activity
+
+commit #12 during squash activity
+=======
 commit #5 during squash activity
 
 commit #6 during squash activity
@@ -13,3 +22,4 @@ commit #6 during squash activity
 commit #7 during squash activity
 
 commit #8 during squash activity
+>>>>>>> 974ebda5959afa76e0c1d09595f8445afc6a34c9
